@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1765957491428,
+    "text": "I feel stressed today",
+    "mood": "stressed",
+    "createdAt": "2025-12-17T07:44:51.428Z"
+  },
+  {
+    "id": 1765962014855,
+    "text": "i feel good \n",
+    "mood": "neutral",
+    "createdAt": "2025-12-17T09:00:14.855Z"
+  },
+  {
+    "id": 1765962269052,
+    "userId": null,
+    "text": "I feel anxious and stressed today",
+    "mood": "stressed",
+    "sentiment": "Negative",
+    "createdAt": "2025-12-17T09:04:29.052Z"
+  },
+  {
+    "id": 1765962380985,
+    "userId": 1765962366889,
+    "text": "i am happy",
+    "mood": "happy",
+    "sentiment": "Positive",
+    "createdAt": "2025-12-17T09:06:20.985Z"
+  },
+  {
+    "id": 1765962720360,
+    "userId": 123,
+    "text": "I feel anxious today",
+    "mood": "anxious",
+    "sentiment": "Negative",
+    "createdAt": "2025-12-17T09:12:00.360Z"
+  },
+  {
+    "id": 1765968536262,
+    "userId": 1765962366889,
+    "text": "nice",
+    "mood": "anxious",
+    "sentiment": "Neutral",
+    "createdAt": "2025-12-17T10:48:56.262Z"
+  },
+  {
+    "id": 1765968583044,
+    "userId": 1765962398217,
+    "text": "not good",
+    "mood": "stressed",
+    "sentiment": "Positive",
+    "createdAt": "2025-12-17T10:49:43.044Z"
+  },
+  {
+    "id": 1766057740073,
+    "userId": 1765962398217,
+    "text": "happy",
+    "mood": "neutral",
+    "sentiment": "Positive",
+    "createdAt": "2025-12-18T11:35:40.073Z"
+  }
+]
